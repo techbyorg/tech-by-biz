@@ -1,0 +1,8 @@
+- 5/27/2020
+  - Filed for State of Texas nonprofit via [SOS Direct](https://direct.sos.state.tx.us/acct/acct-login.asp) ($25)
+  - Very easy, ~10 min
+- 5/30/2020
+  - Received emailed acknowledgement from Texas Secretary of State (pdfs in `state_of_tx` folder)
+- 6/2/2020
+  - Got an [EIN](https://www.irs.gov/businesses/small-businesses-self-employed/apply-for-an-employer-identification-number-ein-online) (pdf in `federal` folder)
+  - Very easy, ~5 min. Closed on weekends 🙃
