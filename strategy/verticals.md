@@ -1,4 +1,5 @@
 - Food banks
+  - Potentially difficult with bureaucracy
   - https://mealconnect.org/
   - https://www.link2feed.com/food-bank-software/food-pantry-software/
   - http://www.foodbankmanager.com/
@@ -6,6 +7,11 @@
   - https://www.famcare.net/clients_we_serve/homeless/ (homeless & food bank)
 
 - Animal shelters
+  - seems pretty crowded
+  - https://www.shelterbuddy.com/
+  - https://chameleonbeach.com/
+  - https://petstablished.com/
+  - https://www.petpoint.com/
   - https://www.shelterluv.com/
   - https://pawlytics.com/
   - https://www.shelterpro.com/
@@ -21,18 +27,18 @@
   - https://sahanafoundation.org/
 
 - Healthcare
+  - Potentially difficult with bureaucracy (in US, maybe foreign aid ones are better)
 
 - Education
+  - Potentially difficult with bureaucracy
   - After school
     - https://www.signupgenius.com/lessons-tutoring-registration-software
   - Anything around tracking student improvement/attendance and share that aggregate data with donors (Mark)
     - helping clients with coaching (any type) how do the "coaches" track the progress of all of their clients, and how do the clients see and report on their progress
 
-- Equality
+- Civil rights / equality
 
 - Conservation
-
-- Civil rights
 
 - Mental health / Addiction / Sexual assault
 
