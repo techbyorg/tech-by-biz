@@ -1,0 +1,9 @@
+- Each team like it's own mini nonprofit, focused on specific cause & product
+  - Directors (combo engineer/product/ED)
+    - 1.5x pay of normal engineers?
+    - co-founder level intensity
+    - passionate about the focus area
+  - 1-2 other engineers, more/less dependent on product complexity
+    - Comfortable 9-5 that pays well
+  - Designers shared between a couple teams?
+- "Shared tech" team? Or each individual team contributes to shared tech?
