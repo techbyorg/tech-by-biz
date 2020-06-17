@@ -20,6 +20,7 @@
 - Homeless shelters
   - Probably a lot of bureaucracy. Hard for 1st product
   - https://bitfocus.com/
+  - https://www.civicore.com/
   - https://www.socialsolutions.com/who-we-serve/homelessness/
   - https://www.famcare.net/clients_we_serve/homeless/ (homeless & food bank)
 
@@ -45,3 +46,6 @@
 - Youth development / clubs
 
 - Free legal clinics
+  - Reaching out to learn more
+
+- Smallholder agriculture
