@@ -45,7 +45,13 @@
 
 - Youth development / clubs
 
-- Free legal clinics
-  - Reaching out to learn more
+- Legal aid groups
+  - https://legalserver.org
+  - https://www.probono.net
+  - resources: https://www.lsntap.org
+  - Potential around legal services intake (questions to determine if eligible)
+    - city, state, problem. See if they have a valid case (what paralegals do)
+    - usually inbound phone calls. Reference from social services
+  - Vast majority of legal problems people have to fix themselves (ie fill out bankruptcy form)
 
 - Smallholder agriculture
