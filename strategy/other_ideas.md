@@ -1,0 +1,4 @@
+- Discord-style communities of people wanting to do good in certain niches (climate change, inequality, etc...)
+  - probably best for hack club to do
+- Volunteer gamification
+  - Get them sharing, donating more
