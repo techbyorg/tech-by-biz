@@ -2,3 +2,18 @@
   - probably best for hack club to do
 - Volunteer gamification
   - Get them sharing, donating more
+- Volunteer analytics
+  - Onboard %
+  - Retention
+  - Happiness
+  - Share / referral
+  - Session length
+  - Sessions per day
+  - Donations
+- Making adulting easy
+  - Moved recently? ABC need to do
+    - Bring XYZ to DMV
+    - File different paperwork
+    - Health insurance
+  - Mortgages
+  - somewhat similar to yogov and donotpay
